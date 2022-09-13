@@ -1,11 +1,14 @@
+body {
+  background-image: url("whitewall.jpg");
+}
 p {
   text-align: center;
 }
 h3 {
 
 }
-h2 {
-  align-content: center;
+.headingcenter {
+  text-align: center;
 }
 table {
   border-collapse: collapse;
